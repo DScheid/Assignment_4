@@ -1,14 +1,10 @@
-* {
-  font-family: sans-serif;
-  border-width: 50px;
-}
-
 h1 {
   font-size: 50px;
 }
 
 body {
   margin: 0;
+  font-family: sans-serif;
 }
 
 header {
@@ -43,7 +39,7 @@ aside {
   margin-bottom: 100px;
 }
 
-#bluefont {
+.bluefont {
   color: #42c5f4;
 }
 
@@ -57,7 +53,6 @@ footer {
   color: white;
   margin-top: 40px;
   background-color: #262626;
-  align-text: center;
   clear: both;
   padding: 30px;
 }
